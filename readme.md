@@ -1,6 +1,6 @@
 # 文件
 
-直接修改的学长的 [LSTMLM.py](/LSTM/LSTMLM.py) 文件，具体修改内容详见 总结报告.docx
+直接修改的学长的 [LSTMLM.py](/LSTM/LSTMLM.py) 文件，具体修改内容详见[总结报告.docx](/总结报告.docx)
 
 # 一点想法
 
